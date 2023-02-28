@@ -12,4 +12,6 @@ This is a Terraform Docker Demo. In the **main.tf** configuration file, we creat
 Read more on the link [<a href="https://medium.com/@aaryavd02/terraform-to-provision-a-nginx-docker-container-d18d9573bc01">Here</a>] for detailed steps to install and configure the Nginx.
 
 #
-I am writing articles on **Medium** on my recent projects/tasks. 
+
+For more such interesting articles/projects. I am writing articles on **<a href="https://medium.com/@aaryavd02">Medium</a>**.
+
